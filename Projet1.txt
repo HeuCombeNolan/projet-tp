@@ -1,2 +1,6 @@
 Première version du projet
+<<<<<<< HEAD
 J'ai modifié
+=======
+Test de modification Yugi
+>>>>>>> f8d5611 (Resolution de conflit sur texte.txt)
