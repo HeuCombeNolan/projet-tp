@@ -1,2 +1,6 @@
 Première version du projet
+<<<<<<< HEAD
 Test de modification Yugi
+=======
+J'ai modifié
+>>>>>>> Nolan
